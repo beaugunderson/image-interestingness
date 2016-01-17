@@ -1,0 +1,25 @@
+{
+  "name": "image-interestingness",
+  "version": "1.0.0",
+  "description": "image-interestingness calculates a score for an image that includes the image's saturation and detail.",
+  "main": "image-interestingness.js",
+  "author": "Beau Gunderson <beau@beaugunderson.com> (https://beaugunderson.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-utilities": "^2.1.0",
+    "lodash.assignin": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beaugunderson/image-interestingness.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beaugunderson/image-interestingness/issues"
+  },
+  "homepage": "https://github.com/beaugunderson/image-interestingness#readme",
+  "keywords": [
+    "image",
+    "canvas",
+    "interestingness"
+  ]
+}
